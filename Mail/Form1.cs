@@ -15,6 +15,7 @@ namespace Mail
         public Form1()
         {
             InitializeComponent();
+            // siema tu jest moj commit 
         }
     }
 }
