@@ -1,0 +1,12 @@
+<œcie¿ka>cd ..		- powrót
+cd nazwaFolderu		-
+dir			-pokazuje wszystkie pliki w danej lokalizacji
+git status		- pokazuje modyfikacje w plikach(te pliki zosta³y zaktulizowane)
+git add .		- dodaje bnie¿¹ce zmiany do repo
+git commit -m "Nazwa commita"	-np"Doda³em obs³ugê b³êdów", "Usuna³em przyciks loguj"
+git push		- wrzuca na serwer ca³e repozytorium
+git pull		-pobiera z repozytorium
+
+git clone http:...	- pobiera nowe repozytorium, tylko za pierwszym razem
+git reset --hard	- resetuje projekt do ostatniego commita
+
