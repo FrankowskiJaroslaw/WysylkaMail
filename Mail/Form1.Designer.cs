@@ -39,6 +39,15 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "Start";
             this.button1.UseVisualStyleBackColor = true;
+
+            // 
+
+            this.button2.Location = new System.Drawing.Point(56, 56);
+            this.button2.Name = "button1";
+            this.button2.Size = new System.Drawing.Size(20, 20);
+            this.button2.TabIndex = 0;
+            this.button2.Text = "Start";
+            this.button2.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -55,6 +64,8 @@
         #endregion
 
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        
     }
 }
 
